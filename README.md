@@ -1,8 +1,8 @@
 # Hey, I'm Juan 👋
 
-### Software Engineer | Frontend & Full-Stack Development
+### Software Engineer | 
 
-I'm a Software Engineer passionate about building intuitive applications, solving problems, and continuously growing as an engineer.
+I'm a Software Engineer passionate about building intuitive applications, solving problems & continuously growing as an engineer.
 
 - 🔭 Currently building projects with Angular, TypeScript, Java, and Spring Boot.
 - 🌱 Expanding my knowledge of backend development, system design, and software architecture.
