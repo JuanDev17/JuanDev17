@@ -1,14 +1,14 @@
 # Hey, I'm Juan 👋
 
-### Software Engineer | 
+### Software Engineer 
 
-I'm a Software Engineer passionate about building intuitive applications, solving problems & continuously growing as an engineer.
+I'm a Software Engineer passionate about building meaningful software, solving complex problems, and creating intuitive user experiences.
 
-- 🔭 Currently building projects with Angular, TypeScript, Java, and Spring Boot.
-- 🌱 Expanding my knowledge of backend development, system design, and software architecture.
-- 💻 Interested in building scalable applications and creating great user experiences.
-- 🛠️ Working with Angular, React, Java, Spring Boot, PostgreSQL, and more.
-- ⚡ Always learning, building, and finding new ways to improve as an engineer.
+- 💻 **Tech Stack:** Angular, React, TypeScript, Java, Spring Boot, and PostgreSQL.
+- 🔭 **Currently focused on:** Building full-stack applications and strengthening my backend development skills.
+- 🌱 **Always exploring:** System design, software architecture, and scalable application development.
+
+Always curious, always building, always improving.
 
 ### 📫 Connect with me
 
